@@ -36,7 +36,9 @@ If a project connects the physical world with code, **“me lo echo”**. 💻�
 
 ### [MantisHID+MSC](https://github.com/Rubio473/MantisHID-MSC)
 
-Composite USB firmware for ESP32-S3 devices.
+Composite USB automation and virtual-storage firmware for ESP32-S3 devices,
+featuring Keyboard, Mouse and Consumer HID, Mass Storage Class and
+DuckyScript-compatible payload execution.
 
 ---
 
