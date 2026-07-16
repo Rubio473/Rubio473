@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Gael Rubio 👋
 
-<!--
-**Rubio473/Rubio473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systems Engineering Student | Firmware | Linux Infrastructure | Cybersecurity
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning through fully hands-on projects: from setting up and
+administering Debian-based Linux servers in headless environments, configuring
+local networks, and developing automation scripts, to working with firmware
+and embedded systems.
+
+I dedicate part of my time to developing tools for microcontroller-based
+devices, especially projects involving automation and the implementation
+of lab environments with Linux servers.
+
+If a project connects the physical world with code, **“me lo echo”**. 💻🔧
+
+---
+
+## 🧰 Technologies and Tools
+
+### Languages and technologies with hands-on experience
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=cpp,go,py,java,html&theme=dark&perline=5"
+      alt="C++, Go, Python, Java and HTML"
+    />
+  </a>
+</p>
+
+---
+
+## 🛠️ Projects
+
+### [MantisHID+MSC](https://github.com/Rubio473/MantisHID-MSC)
+
+Composite USB firmware for ESP32-S3 devices.
+
+---
+
+<br>
+
+<p align="center">
+  <i>“I don't want to spend my life doing work that makes me forget why I wanted to live in the first place.”</i>
+</p>
